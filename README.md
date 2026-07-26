@@ -1,4 +1,4 @@
-<img src="assets/gif.gif" width="100%">
+<img src="assets/banner.gif" width="100%">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Intern+Analytics+Engineer+%7C+Analytics+Engineer;Engineering+the+Truth+Behind+Every+Transaction;Python+%7C+SQL+%7C+dbt+%7C+Airflow+%7C+Modern+Data+Stack"/>
