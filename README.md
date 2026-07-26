@@ -205,28 +205,15 @@
       </td>
       <!-- Right: GitHub Stats on top, Top Languages below -->
       <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=markphamm&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=88C0D0&text_color=e5e7eb&icon_color=88C0D0&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=anoralee&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=88C0D0&text_color=e5e7eb&icon_color=88C0D0&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
         <br /><br />
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=markphamm&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=88C0D0&text_color=e5e7eb&icon_color=88C0D0&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anoralee&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=88C0D0&text_color=e5e7eb&icon_color=88C0D0&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
-
-### Things I'm working on this week
-<!--START_SECTION:waka-->
-
-```txt
-Markdown       3 hrs 42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
-SQL            2 hrs 46 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-Python         2 hrs 41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-YAML           2 hrs 4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Terraform      1 hr 6 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-```
-
-<!--END_SECTION:waka-->
 
 ### Coding Challenges
 
@@ -235,12 +222,12 @@ Terraform      1 hr 6 mins           █▓░░░░░░░░░░░░�
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
         <a href="https://leetcode.com/u/anoralee/">
-          <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap&v=2" alt="LeetCode Stats" width="100%" />
+          <img src="https://leetcard.jacoblin.cool/anoralee?theme=dark&ext=heatmap&v=2" alt="LeetCode Stats" width="100%" />
         </a>
       </td>
       <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
         <a href="https://platform.stratascratch.com/user/Tapez">
-          <img src="./á/stratascratch_card.svg" alt="StrataScratch Stats" width="100%" />
+          <img src="./assets/stratascratch_card.svg" alt="StrataScratch Stats" width="100%" />
         </a>
       </td>
     </tr>
