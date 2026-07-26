@@ -1,12 +1,8 @@
 <img src="assets/gif.gif" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=000000&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Intern+Analytics+Engineer+%7C+Analytics+Engineer;Engineering+the+Truth+Behind+Every+Transaction;Python+%7C+SQL+%7C+dbt+%7C+Airflow+%7C+Modern+Data+Stack"/>
+</p>
 
 <p align="center">
   <a href="mailto:lehoaian.dlc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -24,10 +20,9 @@
 
 <div align="center">
   
-[![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
-![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
-![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
+  ![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
+  ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HoaiAn001)
 </div>
 
 
@@ -273,3 +268,5 @@ Terraform      1 hr 6 mins           █▓░░░░░░░░░░░░�
     </tr>
   </table>
 </div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31exddovzicvutnpu7dwh2a6uxne&unique={true|1|on|yes})
