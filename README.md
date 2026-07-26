@@ -1,17 +1,13 @@
-<img src="assets/gif.gif" width="100%">
+<img src="assets/banner.gif" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=000000&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Intern+Data+Analyst+%7C+Analytics+Engineer;Engineering+the+Truth+Behind+Every+Transaction;Python+%7C+SQL+%7C+dbt+%7C+Airflow+%7C+Modern+Data+Stack"/>
+</p>
 
 <p align="center">
   <a href="mailto:lehoaian.dlc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/hoaian001"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://hoaian001-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anoralee"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://anoralee-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </a>
 </p>
 
@@ -23,8 +19,7 @@
 </blockquote>
 
 <div align="center">
-  
-[![wakatime](https://wakatime.com/badge/user/894cf02a-9974-42d0-acde-603cdd98fe17.svg)](https://wakatime.com/@894cf02a-9974-42d0-acde-603cdd98fe17)
+
 ![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
 ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
