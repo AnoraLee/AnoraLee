@@ -13,14 +13,6 @@
   </a>
 </p>
 
----
-
-## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<blockquote align="center">
-  <b><i>"Analytics isn't just my job - it's my obsession. Scroll down and see for yourself"</i></b>
-</blockquote>
-
 <div align="center">
   
   ![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
@@ -28,8 +20,23 @@
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HoaiAn001)
 </div>
 
+---
 
-<!-- ## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="assets/title_about.svg" width="100%" alt="About Me" />
+
+```yaml
+about_me:
+  role: "Computer Science Student"
+  goal: "Aspiring Data Analyst"
+  mission: "Turning raw data into actionable insights."
+  philosophy: "Stay curious. Think critically. Learn continuously."
+```
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="assets/title_experience.svg" width="100%" alt="Professional Experience" />
 
 <div align="center">
   <table width="100%">
@@ -88,7 +95,9 @@
 
 ---
 
-## 🛠️ Techstack &amp; Ecosystem <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="assets/title_techstack.svg" width="100%" alt="Tech Stack &amp; Ecosystem" />
 
 <img width="1332" height="787" alt="image" src="https://github.com/user-attachments/assets/8bc0e5bd-e57f-44a7-8545-19c54e189c32" />
 
@@ -192,7 +201,9 @@
   </table>
 </div>
 
-## 📊 Stats <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="assets/title_stats.svg" width="100%" alt="Activity &amp; Stats" />
 
 ### GitHub Stats
 
@@ -229,7 +240,6 @@
 
 - 🎧 Listening to Lo-fi, EDM & Instrumental music
 - 🎮 Enjoying pixel-art and indie games
-- 📖 Reading about AI, NLP and psychology
 - ☕ Coffee makes every debugging session better
 - 🌙 Most productive after midnight
 
@@ -239,27 +249,41 @@
 
 </td>
 
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="top">
 
 ### ☕ Support My Journey
 
-If you enjoy my projects or find them helpful, you can support my learning journey.
+> *"Every star, suggestion, and contribution keeps me moving forward."*
+
+- ⭐ Star my repositories if they help you
+- 💬 Share feedback and ideas for improvement
+- 🤝 Contributions and collaborations are welcome
+- ☕ Support my learning journey if you'd like
 
 <br>
+
+<div align="center">
 
 <a href="YOUR_BUYMEACOFFEE_LINK">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
 </a>
 
-<br><br>
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:374151&height=2&section=header"/>
+<br>
 
-<a href="YOUR_KOFI_LINK">
-<img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-</a>
+</div>
 
-<br><br>
+<br>
 
-⭐ Star my repositories if they help you!
+### 🏗️ What I Value
+
+> *"The principles that guide every project I build."*
+
+- 🧩 Writing clean and maintainable code
+- 🔬 Staying curious and learning continuously
+- 📈 Growing through every project and challenge
+- 🤝 Sharing knowledge and helping the community
 
 </td>
 
