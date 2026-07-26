@@ -1,7 +1,9 @@
-<img src="assets/banner.gif" width="100%">
+<p align="center">
+  <img src="./assets/banner.gif" width="600" alt="Banner">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Intern+Data+Analyst+%7C+Analytics+Engineer;Engineering+the+Truth+Behind+Every+Transaction;Python+%7C+SQL+%7C+dbt+%7C+Airflow+%7C+Modern+Data+Stack"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Intern+Analytics+Engineer+%7C+Analytics+Engineer;Engineering+the+Truth+Behind+Every+Transaction;Python+%7C+SQL+%7C+dbt+%7C+Airflow+%7C+Modern+Data+Stack"/>
 </p>
 
 <p align="center">
@@ -19,10 +21,10 @@
 </blockquote>
 
 <div align="center">
-
-![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
-![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
+  
+  ![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
+  ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HoaiAn001)
 </div>
 
 
@@ -268,3 +270,9 @@ Terraform      1 hr 6 mins           █▓░░░░░░░░░░░░�
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnoraLee/Portfolio/output/github-isometric-calendar.svg">
+</p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31exddovzicvutnpu7dwh2a6uxne&unique={true|1|on|yes})
