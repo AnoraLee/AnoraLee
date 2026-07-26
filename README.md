@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%">
+<img src="assets/gif.gif" width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -8,21 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=I+wrote+too+much+SQL+...+%F0%9F%99%81;Probably+need+to+touch+some+grass+%F0%9F%8C%B1">
 </picture>
 
-## 🌐 Let's Connect <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/minhbphamm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/markphammm/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://platform.stratascratch.com/user/SmartPersonality1862" target="_blank">
-    <img src="https://img.shields.io/badge/StrataScratch-Profile-00A79D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9jhTEsAAAAK3RSTlMAAQIDBAUGBwgJCgsMDQ8QERITFBUWFxgZGhscHR4fICEiIyQmJygpKiuzg1ZnAAAAPUlEQVR42jXJRw6AIAwEwG9r2+9fZbCllPw/6wJWiRMwCqbk9zMBoIRlpBKR6FQAoipxkAdRHWuMtk5+egAtI7AmZpjE9AAAAAElFTkSuQmCC" alt="StrataScratch logo" />
+  <a href="mailto:lehoaian.dlc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hoaian001"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedinlogoColor=white"/></a>&nbsp;
+  <a href="https://hoaian001-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercellogoColor=white"/></a>
   </a>
 </p>
 
----
 
 ## 🧠 About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -38,7 +30,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MarkPhamm)
 </div>
 
----
 
 ## 💼 Experience <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
