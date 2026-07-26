@@ -215,23 +215,54 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
-### Coding Challenges
+## 🌿 Beyond Coding & Support
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
-        <a href="https://leetcode.com/u/anoralee/">
-          <img src="https://leetcard.jacoblin.cool/anoralee?theme=dark&ext=heatmap&v=2" alt="LeetCode Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
-        <a href="https://platform.stratascratch.com/user/Tapez">
-          <img src="./assets/stratascratch_card.svg" alt="StrataScratch Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31exddovzicvutnpu7dwh2a6uxne&unique={true|1|on|yes})
+<td width="55%" valign="top">
+
+### 🌿 Beyond Coding
+
+> *"Life isn't only about building models and writing code."*
+
+- 🎧 Listening to Lo-fi, EDM & Instrumental music
+- 🎮 Enjoying pixel-art and indie games
+- 📖 Reading about AI, NLP and psychology
+- ☕ Coffee makes every debugging session better
+- 🌙 Most productive after midnight
+
+<br>
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31exddovzicvutnpu7dwh2a6uxne&unique=true"/>
+
+</td>
+
+<td width="45%" valign="top" align="center">
+
+### ☕ Support My Journey
+
+If you enjoy my projects or find them helpful, you can support my learning journey.
+
+<br>
+
+<a href="YOUR_BUYMEACOFFEE_LINK">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
+</a>
+
+<br><br>
+
+<a href="YOUR_KOFI_LINK">
+<img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</a>
+
+<br><br>
+
+⭐ Star my repositories if they help you!
+
+</td>
+
+</tr>
+</table>
+</div>
