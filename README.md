@@ -203,8 +203,6 @@ about_me:
 
 <img src="assets/title_stats.svg" width="100%" alt="Activity &amp; Stats" />
 
-### GitHub Stats
-
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
