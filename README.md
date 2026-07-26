@@ -201,7 +201,7 @@
     <tr style="border: none;">
       <!-- Left: Contribution Cityscape (larger) -->
       <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://raw.githubusercontent.com/MarkPhamm/MarkPhamm/output/github-isometric-calendar.svg" width="560px" alt="Contribution Cityscape" />
+        <img src="https://raw.githubusercontent.com/AnoraLee/Portfolio/output/github-isometric-calendar.svg" width="560px" alt="Contribution Cityscape" />
       </td>
       <!-- Right: GitHub Stats on top, Top Languages below -->
       <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
@@ -228,52 +228,23 @@ Terraform      1 hr 6 mins           █▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=markphamm&hide_border=true&bg_color=0b0f19&color=88C0D0&line=88C0D0&point=ffffff&title_color=88C0D0&area=true&area_color=88C0D0" alt="Activity Graph" width="100%" />
-
-<p align="center">
-  <img src="./images/wakatime_activity.svg" alt="WakaTime Activity" />
-</p>
-
-### Contributions
-
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <!-- Left: Streak stats -->
-      <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://streak-stats.demolab.com/?user=Markphamm&theme=tokyonight&hide_border=false&background=0B0F19&border=1F2937&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=E5E7EB&dates=9CA3AF&stroke=1F2937" width="100%" alt="GitHub Streak Stats" />
-      </td>
-      <!-- Right: Profile details / contribution graph -->
-      <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markphamm&theme=nord_dark&v=4" alt="GitHub Profile Details" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### Coding Challenges
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
-        <a href="https://leetcode.com/u/markphammm/">
+        <a href="https://leetcode.com/u/anoralee/">
           <img src="https://leetcard.jacoblin.cool/markphammm?theme=dark&ext=heatmap&v=2" alt="LeetCode Stats" width="100%" />
         </a>
       </td>
       <td width="50%" align="center" style="border: none; padding: 10px;" valign="top">
-        <a href="https://platform.stratascratch.com/user/SmartPersonality1862">
-          <img src="./images/stratascratch_card.svg" alt="StrataScratch Stats" width="100%" />
+        <a href="https://platform.stratascratch.com/user/Tapez">
+          <img src="./á/stratascratch_card.svg" alt="StrataScratch Stats" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnoraLee/Portfolio/output/github-isometric-calendar.svg">
-</p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31exddovzicvutnpu7dwh2a6uxne&unique={true|1|on|yes})
