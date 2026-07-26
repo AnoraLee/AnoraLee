@@ -286,3 +286,12 @@ about_me:
 </tr>
 </table>
 </div>
+
+<div align="center">
+
+<img src="./assets/thanks.gif" width="500" alt="Thanks"/>
+
+👋 Thanks for Visiting
+
+Now go touch some grass. 🌿
+</div>
