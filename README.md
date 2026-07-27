@@ -282,7 +282,7 @@ about_me:
 
 <img src="./assets/thanks.gif" width="500" alt="Thanks"/>
 
-<h3>👋 Thanks for Visiting</h3>
+<h3>Thanks for Visiting 👋 </h3>
 
 <p>Now go touch some grass. 🌿</p>
 </div>
