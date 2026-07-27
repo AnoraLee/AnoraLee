@@ -258,17 +258,9 @@ about_me:
 
 <br>
 
-<div align="center">
-
-<a href="YOUR_BUYMEACOFFEE_LINK">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
-</a>
-
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:374151&height=2&section=header"/>
 <br>
-
-</div>
 
 <br>
 
