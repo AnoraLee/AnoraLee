@@ -208,7 +208,7 @@ about_me:
     <tr style="border: none;">
       <!-- Left: Contribution Cityscape (larger) -->
       <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
-        <img src="https://raw.githubusercontent.com/AnoraLee/Portfolio/output/github-isometric-calendar.svg" width="560px" alt="Contribution Cityscape" />
+        <img src="https://raw.githubusercontent.com/AnoraLee/AnoraLee/output/github-isometric-calendar.svg" width="560px" alt="Contribution Cityscape" />
       </td>
       <!-- Right: GitHub Stats on top, Top Languages below -->
       <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
