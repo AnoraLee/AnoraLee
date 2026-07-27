@@ -2,7 +2,7 @@ name: Generate Isometric Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
+    - cron: "5 11 * * *" # Runs at 00:00 UTC every day
   workflow_dispatch:
 
 jobs:
