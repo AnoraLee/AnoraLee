@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ![Working on](https://img.shields.io/badge/Working%20On-Building%20Data%20Pipelines-blue)
+  ![Working on](https://img.shields.io/badge/Working%20On-Building%20End-to-End%20Data%20Platforms-blue) Building End-to-End Data Platforms
   ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HoaiAn001)
 </div>
@@ -28,7 +28,7 @@
 ```yaml
 about_me:
   role: "Computer Science Student"
-  goal: "Aspiring Data Analyst"
+  goal: "Aspiring Data & Analytics Engineer"
   mission: "Turning raw data into actionable insights."
   philosophy: "Stay curious. Think critically. Learn continuously."
 ```
@@ -102,7 +102,7 @@ about_me:
 <br/>
 
 <div align="center">
-  <h3>🛠️ Tech Stack &amp; Reference Logos</h3>
+  <h3>🛠️ Tech Stack &amp; Learning Roadmap</h3>
   <table width="100%">
     <tr>
       <td width="25%"><b>🏢 Data Warehouse</b></td>
@@ -237,7 +237,7 @@ about_me:
 - 🎧 Listening to Lo-fi, EDM & Instrumental music
 - 🎮 Enjoying pixel-art and indie games
 - ☕ Coffee makes every debugging session better
-- 🌙 Most productive after midnight
+- 🌙 Night owl by choice.
 
 <br>
 
@@ -254,7 +254,6 @@ about_me:
 - ⭐ Star my repositories if they help you
 - 💬 Share feedback and ideas for improvement
 - 🤝 Contributions and collaborations are welcome
-- ☕ Support my learning journey if you'd like
 
 <br>
 
@@ -283,7 +282,7 @@ about_me:
 
 <img src="./assets/thanks.gif" width="500" alt="Thanks"/>
 
-👋 Thanks for Visiting
+<h3>👋 Thanks for Visiting</h3>
 
-Now go touch some grass. 🌿
+<p>Now go touch some grass. 🌿</p>
 </div>
