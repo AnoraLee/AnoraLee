@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ![Working on](https://img.shields.io/badge/Working%20On-Building%20End-to-End%20Data%20Platforms-blue) Building End-to-End Data Platforms
+  ![Working on](https://img.shields.io/badge/Working%20On-Building%20End--to--End%20Data%20Platforms-blue)
   ![Learning](https://img.shields.io/badge/Learning-Advanced%20dbt%20&%20Jinja⚡-orange)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HoaiAn001)
 </div>
