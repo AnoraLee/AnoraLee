@@ -203,6 +203,8 @@ about_me:
 
 <img src="assets/title_stats.svg" width="100%" alt="Activity &amp; Stats" />
 
+### GitHub Stats
+
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -219,6 +221,13 @@ about_me:
     </tr>
   </table>
 </div>
+
+### Things I'm working on this week
+<!--START_SECTION:waka-->
+```txt
+
+```
+<!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
@@ -286,10 +295,3 @@ about_me:
 
 <p>Now go touch some grass. 🌿</p>
 </div>
-
-## ⏱️ WakaTime Stats
-<!--START_SECTION:waka-->
-```txt
-
-```
-<!--END_SECTION:waka-->
