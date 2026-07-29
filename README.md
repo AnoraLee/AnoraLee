@@ -224,6 +224,15 @@ about_me:
 
 ### Things I'm working on this week
 <!--START_SECTION:waka-->
+
+```txt
+Java         4 hrs 56 mins         █████████████████▒░░░░░░░   69.99 %
+Markdown     1 hr 10 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Text         31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+JavaScript   15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Python       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
