@@ -286,3 +286,10 @@ about_me:
 
 <p>Now go touch some grass. 🌿</p>
 </div>
+
+## ⏱️ WakaTime Stats
+<!--START_SECTION:waka-->
+```txt
+
+```
+<!--END_SECTION:waka-->
