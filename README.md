@@ -226,9 +226,7 @@ about_me:
 <!--START_SECTION:waka-->
 
 ```txt
-Java       15 mins               ███████████████░░░░░░░░░░   59.78 %
-Markdown   7 mins                ███████░░░░░░░░░░░░░░░░░░   28.30 %
-Python     3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
