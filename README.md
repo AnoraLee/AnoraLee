@@ -97,7 +97,7 @@ about_me:
 
 <img src="assets/title_techstack.svg" width="100%" alt="Tech Stack &amp; Ecosystem" />
 
-<img width="1332" height="787" alt="image" src="https://github.com/user-attachments/assets/8bc0e5bd-e57f-44a7-8545-19c54e189c32" />
+<!-- <img width="1332" height="787" alt="image" src="https://github.com/user-attachments/assets/8bc0e5bd-e57f-44a7-8545-19c54e189c32" /> -->
 
 <br/>
 
