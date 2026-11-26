@@ -102,7 +102,7 @@ about_me:
 <br/>
 
 <div align="center">
-  <h3>🛠️ Tech Stack &amp; Learning Roadmap</h3>
+  <!-- <h3>🛠️ Tech Stack &amp; Learning Roadmap</h3> -->
   <table width="100%">
     <tr>
       <td width="25%"><b>🏢 Data Warehouse</b></td>
