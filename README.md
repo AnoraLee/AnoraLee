@@ -226,11 +226,7 @@ about_me:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         4 hrs 56 mins         █████████████████▒░░░░░░░   69.99 %
-Markdown     1 hr 10 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Text         31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-JavaScript   15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Python       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
